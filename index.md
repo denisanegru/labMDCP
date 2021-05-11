@@ -7,8 +7,8 @@
 <body> Bine ai venit la lab <button onclick="alertCookie()">Show cookies</button> 
 </body>
 <button onclick="alertCookie()">Show cookies</button>
-document.cookie = "test1=Hello";
-document.cookie = "test2=World";
+document.cookie = "session=test GDPR";
+document.cookie = "favorite_task=collect Data";
 
 const cookieValue = document.cookie
   .split('; ')
@@ -27,3 +27,7 @@ function doOnce() {
   }
 }
 <button onclick="doOnce()">Only do something once</button>
+function resetOnce() {
+  document.cookie = "doSomethingOnlyOnce=; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+}
+<button onclick="resetOnce()">Reset only once cookie</button>
