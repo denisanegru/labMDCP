@@ -56,12 +56,24 @@ Negru Denisa
 </p>
 <p>
 În art. 4 pct. 1 din Regulamentul nr. 679/2016 se găsește definiția datelor cu caracter personal care stipulează orice informații privind o persoană fizică identificată sau identificabilă („persoana vizată”); o persoană fizică identificabilă este o persoană care poate fi identificată, direct sau indirect, în special prin referire la un anumit element de identificare, cum ar fi: 
--	nume, prenume;
--	CNP;
--	Adresă;
--	E-mail;
--	IBAN;
--	Adeverință medicală.
+</p>
+<p>
+    - nume, prenume;
+</p>
+<p>
+    - CNP;
+</p>
+<p>
+    - Adresă;
+</p>
+<p>
+    - E-mail;
+</p>
+<p>
+    - IBAN;
+</p>
+<p>
+    - Adeverință medicală.
 </p>
 <p>
 Vă informăm că datorită temeiului legal aplicabil în România și a relației contractuale în care vă aflați cu Universitatea Tehnică din Cluj-Napoca, aceasta procesează pe perioada relațiilor contractuale următoarele categorii de informații personale care vă aparțin:
