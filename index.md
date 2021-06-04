@@ -48,3 +48,27 @@ if (document.cookie.split(';').some((item) => item.includes('reader=1'))) {
   <button onclick="resetOnce()">Reset only one cookie</button><br>
 Negru Denisa
 </body>
+
+<p>
+  Universitatea Tehnică Cluj-Napoca, cu sediul in Cluj-Napoca, pe Strada Memorandumului 28, 400114, reprezentată legal prin Rector, Prof. univ. dr. ing. Vasile ŢOPA vă prelucrează datele cu caracter personal.
+În art. 4 pct. 1 din Regulamentul nr. 679/2016 se găsește definiția datelor cu caracter personal care stipulează orice informații privind o persoană fizică identificată sau identificabilă („persoana vizată”); o persoană fizică identificabilă este o persoană care poate fi identificată, direct sau indirect, în special prin referire la un anumit element de identificare, cum ar fi: 
+-	nume, prenume;
+-	CNP;
+-	Adresă;
+-	E-mail;
+-	IBAN;
+-	Adeverință medicală.
+Vă informăm că datorită temeiului legal aplicabil în România și a relației contractuale în care vă aflați cu Universitatea Tehnică din Cluj-Napoca, aceasta procesează pe perioada relațiilor contractuale următoarele categorii de informații personale care vă aparțin: date de identificare (certificat de naștere, carte de identitate, etc.); date financiare (număr de cont, venituri realizate la nivelul instituției, situații financiare personale, etc.); caracteristici personale (vârsta, locul nașterii, naționalitate, stare civilă, etc.) necesare pentru stabilirea de drepturi cuvenite;  opinii privind starea de sănătate, componența familiei (numărul de copii și date de identificare a acestora, stare civilă, etc. în baza cărora se fac justificările de calcul a unor drepturi cuvenite sau se stabilesc alte drepturi conform legilor și normativelor aplicabile pentru cei care optează sau solicită aceste drepturi); informații privind parcursul academic, calificările deținute, istoricul profesional, calitatea de membru în organizații profesionale, publicații, date de contact necesare pentru derularea curentă a activității educaționale și de cercetare specifice universității.
+Menționăm ca reținerea datelor cu caracter personal în instituție are rolul de a putea furniza către titularul datelor, la cerere, informații privind perioada de școlarizare petrecută în cadrul instituției și după finalizarea acestei perioade de instruire și se supune suplimentar temeiului legal aplicabil în România furnizat de OM Nr. 657 / 24.11.2014 privind regimul actelor de studii în sistemul de învățământ superior cu completările ulterioare.
+Datele deținute la nivelul sistemelor informatice din Universitatea Tehnică din Cluj-Napoca nu sunt comunicate unor terțe părți decât în cazul în care există solicitări venite conform unui temei legal furnizat de instituții ale statului român sau pentru îndeplinirea obligațiilor contractuale dintre dumneavoastră ca student / cursant și Universitatea Tehnică din Cluj-Napoca ca furnizor de servicii educaționale.
+Conform Regulamentului UE nr. 679/2016 persoanele vizate beneficiază de următoarele drepturi:
+•	dreptul de acces cu titlul gratuit la datele personale prelucrate de universitate;
+•	dreptul la rectificare şi dreptul la ştergerea datelor – fără a contraveni obligaţiilor legale ale universităţii;
+•	dreptul de restricţionare a prelucrării datelor – fără a contraveni obligaţiilor legale ale universităţii;
+•	dreptul la portabilitatea datelor;
+•	dreptul de a retrage oricând consimţământul în cazul în care prelucrarea se bazează pe consimţământ;
+Perioada de stocare şi prelucrare a datelor cu caracter personal este determinată de prevederile legale în vigoare. La sfârşitul perioadei de stocare şi prelucrare a datelor cu caracter personal, conform raporturilor juridice sau scopurilor precizate în declarațiile de consimțământ completate de persoanele vizate, datele cu caracter personal vor fi şterse din procesele curente şi vor fi arhivate conform legislaţiei naţionale.
+		    În cazul mobilității la o universitate din UK, instituția de primire trebuie să elibereze studentului foaia matricolă e confirmă parcurgerea programului de studii precum și rezultatele acestuia. Totodată, instituția de trimitere trebuie să acorde recunoaștere academică tuturor activităților finalizate în timpul mobilității conform contractului de studiu, prin acordarea creditelor transferabile sau a unui sistem echivalent.
+		    Datorită faptului că perioada de mobilitate va fi inclusă și în suplimentul de diplomă, Universitatea Tehnică va avea dreptul să acceseze informațiile despre student din perioada mobilității.   
+  
+  </p>
