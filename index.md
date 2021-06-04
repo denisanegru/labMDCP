@@ -72,3 +72,5 @@ Perioada de stocare şi prelucrare a datelor cu caracter personal este determina
 		    Datorită faptului că perioada de mobilitate va fi inclusă și în suplimentul de diplomă, Universitatea Tehnică va avea dreptul să acceseze informațiile despre student din perioada mobilității.   
   
   </p>
+  
+  <a href="https://didatec-my.sharepoint.com/:w:/r/personal/negru_va_denisa_utcluj_didatec_ro/_layouts/15/Doc.aspx?sourcedoc=%7B2E948193-BC37-4C82-A87C-E6A6A4840894%7D&file=Task2.docx&action=edit&mobileredirect=true&wdNewAndOpenCt=1622837745557&ct=1622837745557&wdPreviousSession=e200e115-397c-43f1-b585-e3eb3aa0a9c9&wdOrigin=OFFICECOM-WEB.MAIN.UPLOAD&cid=ae19853d-df19-4274-98ca-907ebdf4f284">Click to see DPIA </a>
