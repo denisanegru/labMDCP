@@ -64,7 +64,16 @@ Negru Denisa
 -	Adeverință medicală.
 </p>
 <p>
-Vă informăm că datorită temeiului legal aplicabil în România și a relației contractuale în care vă aflați cu Universitatea Tehnică din Cluj-Napoca, aceasta procesează pe perioada relațiilor contractuale următoarele categorii de informații personale care vă aparțin: date de identificare (certificat de naștere, carte de identitate, etc.); date financiare (număr de cont, venituri realizate la nivelul instituției, situații financiare personale, etc.); caracteristici personale (vârsta, locul nașterii, naționalitate, stare civilă, etc.) necesare pentru stabilirea de drepturi cuvenite;  opinii privind starea de sănătate, componența familiei (numărul de copii și date de identificare a acestora, stare civilă, etc. în baza cărora se fac justificările de calcul a unor drepturi cuvenite sau se stabilesc alte drepturi conform legilor și normativelor aplicabile pentru cei care optează sau solicită aceste drepturi); informații privind parcursul academic, calificările deținute, istoricul profesional, calitatea de membru în organizații profesionale, publicații, date de contact necesare pentru derularea curentă a activității educaționale și de cercetare specifice universității.
+Vă informăm că datorită temeiului legal aplicabil în România și a relației contractuale în care vă aflați cu Universitatea Tehnică din Cluj-Napoca, aceasta procesează pe perioada relațiilor contractuale următoarele categorii de informații personale care vă aparțin:
+</p>
+<p>
+- date de identificare (certificat de naștere, carte de identitate, etc.);
+</p>
+<p>
+- date financiare (număr de cont, venituri realizate la nivelul instituției, situații financiare personale, etc.); 
+</p>
+<p>
+- caracteristici personale (vârsta, locul nașterii, naționalitate, stare civilă, etc.) necesare pentru stabilirea de drepturi cuvenite;  opinii privind starea de sănătate, componența familiei (numărul de copii și date de identificare a acestora, stare civilă, etc. în baza cărora se fac justificările de calcul a unor drepturi cuvenite sau se stabilesc alte drepturi conform legilor și normativelor aplicabile pentru cei care optează sau solicită aceste drepturi); informații privind parcursul academic, calificările deținute, istoricul profesional, calitatea de membru în organizații profesionale, publicații, date de contact necesare pentru derularea curentă a activității educaționale și de cercetare specifice universității.
 Menționăm ca reținerea datelor cu caracter personal în instituție are rolul de a putea furniza către titularul datelor, la cerere, informații privind perioada de școlarizare petrecută în cadrul instituției și după finalizarea acestei perioade de instruire și se supune suplimentar temeiului legal aplicabil în România furnizat de OM Nr. 657 / 24.11.2014 privind regimul actelor de studii în sistemul de învățământ superior cu completările ulterioare.
 Datele deținute la nivelul sistemelor informatice din Universitatea Tehnică din Cluj-Napoca nu sunt comunicate unor terțe părți decât în cazul în care există solicitări venite conform unui temei legal furnizat de instituții ale statului român sau pentru îndeplinirea obligațiilor contractuale dintre dumneavoastră ca student / cursant și Universitatea Tehnică din Cluj-Napoca ca furnizor de servicii educaționale.
 </p>
